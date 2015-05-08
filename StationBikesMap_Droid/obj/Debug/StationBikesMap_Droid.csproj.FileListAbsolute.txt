@@ -1,0 +1,17 @@
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\StationBikesMap_Droid.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\StationBikesMap_Droid.pdb
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\StationBikesMap_Droid.dll.mdb
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\StationBikesMap_Droid.StationBikesMap_Droid.apk
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\StationBikesMap_Droid.StationBikesMap_Droid-Signed.apk
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\StationBikesMap_Droid.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\StationBikesMap_Droid.pdb
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\android\bin\StationBikesMap_Droid.StationBikesMap_Droid.apk
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\res\layout\main.xml
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\res\values\strings.xml
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\res\drawable\icon.png
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\R.cs.flag
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\obj\Debug\uploadflags.txt
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\GooglePlayServicesLib.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll

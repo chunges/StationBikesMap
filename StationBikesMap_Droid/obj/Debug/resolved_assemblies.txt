@@ -1,0 +1,5 @@
+C:\Master\4_IoT\BikeSensor\StationBikesMap\StationBikesMap_Droid\bin\Debug\StationBikesMap_Droid.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\packages\Xamarin.GooglePlayServices.22.0.0.2\lib\MonoAndroid41\GooglePlayServicesLib.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\packages\Xamarin.Android.Support.v7.AppCompat.21.0.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Master\4_IoT\BikeSensor\StationBikesMap\packages\Xamarin.Android.Support.v7.MediaRouter.21.0.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.MediaRouter.dll
